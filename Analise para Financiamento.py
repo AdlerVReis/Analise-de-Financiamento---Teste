@@ -1,6 +1,6 @@
-""" Escreva um programa para analise de emprestimo bancario para compra de uma casa
+""" Programa para analise de emprestimo bancario para compra de uma casa
 O programa deve perguntar o valor do imovel, o salario e o periodo para pagamento
-E diga se ele pode ou não compra a casa - 30% da renda."""
+E diga se ele pode ou não compra a casa - 30% da renda - Entrada de no minimo 20% do valor do imóvel."""
 
 from time import sleep
 nome = input("Bem-vindo. Por favor, nos diga seu nome: ")
